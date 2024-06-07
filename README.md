@@ -3,7 +3,8 @@
 ## Project Title
 **U Guess It** - A Fun and Engaging Number Guessing Game
 
-![U Guess It](./assets/turtle_with_glasses.png)
+![U Guess It]![image](https://github.com/GetPeace9/UGuessIt/assets/156148067/ff4c67bd-27b4-420f-902b-fb3c420690bb)
+
 
 ## Project Goals
 The goal of this project is to create an entertaining and interactive number guessing game. The game challenges players to guess a randomly generated number within a specified range and a limited number of attempts. It aims to provide a fun way to practice number guessing while offering a visually appealing interface and tracking high scores.
